@@ -6,9 +6,14 @@ Color schemas for the PHPStorm IDE.
 <h1>Blade<h1>
 <p>Blade is the dark color scheme based on Darkula color scheme for the PHPStorm IDE. This scheme optimized for the
 Darcula theme (Settings -> Appearance -> Theme -> Darcula)
-<h1>Solito<h1> 
+<h1>Solito</h1> 
 Solito is the dark color scheme for the PHPStorm IDE. This scheme optimized for light thems like Windows, Nimdus and other.
-<h1>Set up</h1>
+<h1>Installation</h1>
 <ul>
-  <li></li>
+  <li>Copy *.icls files to the schemas folder (like C:\Users\<username>\.WebIde60\config\colors)</li>
+  <li>Start PHPStorm IDE</li>
+  <li>Setup theme into Settings -> Appearance -> Theme</li>
+  <li>Select scheme name into File -> Settings -> Editor -> Colors & Fonts</li>
 </ul>
+<hr>
+Copyright 2012-2013, Dmitry Shamin, <dmitry.shamin@gmail.com>, http://dmitry.shamin.spb.ru
