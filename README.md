@@ -10,7 +10,7 @@ Darcula theme (Settings -> Appearance -> Theme -> Darcula)
 Solito is the dark color scheme for the PHPStorm IDE. This scheme optimized for light thems like Windows, Nimdus and other.
 <h1>Installation</h1>
 <ul>
-  <li>Copy *.icls files to the schemas folder (like C:\Users\&lt;username&gt;\.WebIde60\config\colors)</li>
+  <li>Copy *.icls files to the schemas folder (like C:\Users\&lt;username&gt;\.WebIde100\config\colors)</li>
   <li>Start PHPStorm IDE</li>
   <li>Setup theme into Settings -> Appearance -> Theme</li>
   <li>Select scheme name into File -> Settings -> Editor -> Colors & Fonts</li>
