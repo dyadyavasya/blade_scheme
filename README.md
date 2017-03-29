@@ -3,7 +3,7 @@ phpstorm_color
 
 Color schemas for the PHPStorm IDE.
 
-<h1>Blade<h1>
+<h1>Blade</h1>
 <p>Blade is the dark color scheme based on Darcula color scheme for the PHPStorm IDE. This scheme optimized for the
 Darcula theme (Settings -> Appearance -> Theme -> Darcula)
 <h1>Solito</h1> 
