@@ -1,9 +1,22 @@
 <scheme name="Blade" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="d6822" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -228,12 +241,6 @@
         <option name="FOREGROUND" value="4646f1" />
       </value>
     </option>
-    <option name="DEBUGGER_SMART_STEP_INTO_TARGET">
-      <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="3c3f41" />
-      </value>
-    </option>
     <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
@@ -258,7 +265,6 @@
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="9876aa" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -287,7 +293,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="ffc66d" />
+        <option name="FOREGROUND" value="ddab5d" />
       </value>
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
@@ -297,7 +303,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="dfdfdf" />
+        <option name="FOREGROUND" value="d0d0d0" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -352,7 +358,7 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="ffc66d" />
+        <option name="FOREGROUND" value="ddab5d" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -553,7 +559,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="393838" />
+        <option name="BACKGROUND" value="26342b" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
@@ -10237,11 +10243,6 @@
         <option name="FOREGROUND" value="d0d0ff" />
       </value>
     </option>
-    <option name="NOT_TOP_FRAME_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="110200" />
-      </value>
-    </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="808080" />
@@ -10264,10 +10265,10 @@
         <option name="FOREGROUND" value="9373a5" />
       </value>
     </option>
-    <option name="PHP_CONSTANT">
+    <option name="PHP_DOC_TAG">
       <value>
-        <option name="FOREGROUND" value="9876aa" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="526d4a" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_EXEC_COMMAND_ID">
@@ -10278,7 +10279,7 @@
     </option>
     <option name="PHP_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="dfdfdf" />
       </value>
     </option>
     <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />

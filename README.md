@@ -1,9 +1,5 @@
 Blade Theme
 ==============
-
-Color theme for the PHPStorm IDE.
-
-<h1>Blade</h1>
 <p>Blade is the dark color theme for the PHPStorm IDE. This theme is optimized for the Darcula theme (Settings -> Appearance -> Theme -> Darcula)
 <h1>Installation</h1>
 <ul>
