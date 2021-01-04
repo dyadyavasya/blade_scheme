@@ -1,8 +1,9 @@
 <scheme name="Blade" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="d6822" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -225,6 +226,12 @@
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="4646f1" />
+      </value>
+    </option>
+    <option name="DEBUGGER_SMART_STEP_INTO_TARGET">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="3c3f41" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -546,7 +553,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="33463a" />
+        <option name="BACKGROUND" value="393838" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
@@ -10228,6 +10235,11 @@
     <option name="Map key">
       <value>
         <option name="FOREGROUND" value="d0d0ff" />
+      </value>
+    </option>
+    <option name="NOT_TOP_FRAME_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="110200" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
