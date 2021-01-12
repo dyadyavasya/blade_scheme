@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.dmitryshamin.blade</id>
     <name>Blade Scheme</name>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <vendor email="dmitry.shamin@gmail.com" url="https://github.com/dyadyavasya/blade_scheme">
         Dmitry Shamin
     </vendor>
