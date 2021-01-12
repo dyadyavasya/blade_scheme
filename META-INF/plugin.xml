@@ -1,12 +1,12 @@
 <idea-plugin>
     <id>com.dmitryshamin.blade</id>
-    <name>Blade Theme</name>
+    <name>Blade Scheme</name>
     <version>1.0.0</version>
-    <vendor email="dmitry.shamin@gmail.com" url="https://github.com/dyadyavasya/blade_theme">
+    <vendor email="dmitry.shamin@gmail.com" url="https://github.com/dyadyavasya/blade_scheme">
         Dmitry Shamin
     </vendor>
     <description><![CDATA[
-      Blade is the dark color theme for the PHPStorm IDE.
+      Blade is the dark color scheme for the PHPStorm IDE.
     ]]>
     </description>
     <change-notes/>

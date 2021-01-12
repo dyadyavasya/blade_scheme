@@ -1,14 +1,14 @@
-Blade Theme
+Blade Scheme
 ==============
-<p>Blade is the dark color theme for the PHPStorm IDE. This theme is optimized for the Darcula theme 
+<p>Blade is the dark color scheme for the PHPStorm IDE. This scheme is optimized for the Darcula theme 
 (Settings -> Appearance -> Theme -> Darcula)
 <h1>Installation</h1>
 <h2>Easy</h2>
-Go to your IDE's settings, select Plugins -> Browse Repositories... search for and install 'Rainglow Color Schemes'. 
+Go to your IDE's settings, select Plugins -> Browse Repositories... search for and install 'Blade Color Schemes'. 
 Restart your IDE, and the themes will be available within the Colour Schemes drop down within the settings dialog. Enjoy!
 <h2>Manual</h2>
 <ul>
-  <li>Copy blade.xml file to the schemas folder 
+  <li>Copy blade.xml file to the schemes folder 
 (like C:\Users\&lt;username&gt;\Application Data\JetBrains\&lt;PHPStorm version&gt;\jba_configs\colors) and rename to blade.icls
 </li>
   <li>Start PHPStorm IDE</li>
