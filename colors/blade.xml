@@ -23,6 +23,7 @@
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="323232" />
     <option name="CONSOLE_BACKGROUND_KEY" value="333333" />
+    <option name="DOCUMENTATION_COLOR" value="323232" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
@@ -45,6 +46,7 @@
     <option name="MODIFIED_LINES_COLOR" value="7180" />
     <option name="NOTIFICATION_BACKGROUND" value="5c5c42" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="323232" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="4d4d4d" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
@@ -320,7 +322,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="cc7832" />
+        <option name="FOREGROUND" value="ffbe69" />
       </value>
     </option>
     <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -10241,6 +10243,11 @@
     <option name="Map key">
       <value>
         <option name="FOREGROUND" value="d0d0ff" />
+      </value>
+    </option>
+    <option name="NOT_TOP_FRAME_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="474f5f" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
