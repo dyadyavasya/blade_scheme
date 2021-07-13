@@ -1,25 +1,23 @@
 <idea-plugin>
-    <id>com.dmitryshamin.blade</id>
-    <name>Blade Scheme</name>
-    <version>1.0.3</version>
-    <change-notes><![CDATA[
-        1) Changed background for EVALUATED_EXPRESSION_ATTRIBUTES
-    ]]>
-    </change-notes>
-    <vendor email="dmitry.shamin@gmail.com" url="https://github.com/dyadyavasya/blade_scheme">
-        Dmitry Shamin
-    </vendor>
-    <description><![CDATA[
+  <id>com.dmitryshamin.blade</id>
+  <name>Blade Color Scheme</name>
+  <version>1.0.4</version>
+  <vendor email="dmitry.shamin@gmail.com" url="https://github.com/dyadyavasya/blade_scheme">Dmitry Shamin</vendor>
+
+  <description><![CDATA[
       Blade is the dark color scheme for the PHPStorm IDE.
+    ]]></description>
+
+  <change-notes><![CDATA[
+      Changed color for XPATH.NUMBER, XPATH.FUNCTION, XPATH.KEYWORD, XPATH.XPATH_NAME, XPATH.STRING
     ]]>
-    </description>
-    <change-notes/>
-    <idea-version since-build="131"/>
-    <depends>com.intellij.modules.lang</depends>
-    <extensions defaultExtensionNs="com.intellij">
-        <bundledColorScheme path="colors/blade"/>
-    </extensions>
-    <application-components/>
-    <project-components/>
-    <actions/>
+  </change-notes>
+
+  <idea-version since-build="142.0"/>
+
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <bundledColorScheme path="/colors/Blade"/>
+  </extensions>
 </idea-plugin>

@@ -1,5 +1,12 @@
 <scheme name="Blade" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2021-07-12T09:19:20</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2021.1.4.0.0</property>
+    <property name="modified">2021-07-13T13:53:37</property>
+    <property name="originalScheme">Blade</property>
+  </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
@@ -10694,15 +10701,13 @@
         <option name="FOREGROUND" value="cc7832" />
       </value>
     </option>
-    <option name="XPATH.NUMBER">
+    <option name="XPATH.FUNCTION" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="XPATH.XPATH_NAME">
       <value>
-        <option name="FOREGROUND" value="6897bb" />
-      </value>
-    </option>
-    <option name="XPATH.STRING">
-      <value>
-        <option name="FOREGROUND" value="a5c25c" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="74a2d4" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="YAML_COMMENT">
