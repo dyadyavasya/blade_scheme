@@ -1,5 +1,5 @@
 <idea-plugin>
-  <id>color.scheme.Blade</id>
+  <id>com.dmitryshamin.blade</id>
   <name>Blade Color Scheme</name>
   <version>1.0.5</version>
   <vendor email="dmitry.shamin@gmail.com" url="https://github.com/dyadyavasya/blade_scheme">Dmitry Shamin</vendor>
