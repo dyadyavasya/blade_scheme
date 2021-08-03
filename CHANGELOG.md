@@ -17,4 +17,8 @@ First release.
 
 ## 1.0.4 | 2021.07.13
 
-1) Change color for XPATH.NUMBER, XPATH.FUNCTION, XPATH.KEYWORD, XPATH.XPATH_NAME, XPATH.STRING
+1) Changed color for XPATH.NUMBER, XPATH.FUNCTION, XPATH.KEYWORD, XPATH.XPATH_NAME, XPATH.STRING
+
+## 1.0.5 | 2021.08.03
+
+1) Changed background for Completion hints.
