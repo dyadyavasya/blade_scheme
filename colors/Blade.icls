@@ -1,10 +1,10 @@
 <scheme name="Blade" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-08-03T14:12:01</property>
+    <property name="created">2022-01-13T12:20:48</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-08-03T14:12:12</property>
+    <property name="ideVersion">2021.3.1.0.0</property>
+    <property name="modified">2022-01-13T12:21:08</property>
     <property name="originalScheme">_@user_Blade</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -79,7 +79,7 @@
     </option>
     <option name="BAD_CHARACTER">
       <value>
-        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="EFFECT_COLOR" value="bc3f3c" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -249,7 +249,7 @@
     </option>
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="4646f1" />
+        <option name="FOREGROUND" value="4a86e8" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -260,7 +260,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="da4939" />
+        <option name="FOREGROUND" value="f15e5b" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -286,9 +286,12 @@
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
         <option name="FOREGROUND" value="526d4a" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="526d4a" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
@@ -309,12 +312,12 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="ffff" />
+        <option name="FOREGROUND" value="59dede" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="d0d0d0" />
+        <option name="FOREGROUND" value="c0c0c0" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -325,7 +328,7 @@
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="a5c25c" />
-        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="EFFECT_COLOR" value="bc3f3c" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -352,7 +355,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="af00" />
+        <option name="FOREGROUND" value="239a23" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -369,7 +372,7 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="ddab5d" />
+        <option name="FOREGROUND" value="fdbd69" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -486,7 +489,7 @@
     </option>
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
-        <option name="EFFECT_COLOR" value="f49810" />
+        <option name="EFFECT_COLOR" value="bc3f3c" />
         <option name="ERROR_STRIPE_COLOR" value="f49810" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -514,7 +517,9 @@
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="dc895d" />
+      </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
@@ -736,6 +741,21 @@
     <option name="LABEL">
       <value>
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="LIVE_TEMPLATE_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="4ac3f1" />
+      </value>
+    </option>
+    <option name="LOG_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="59dede" />
+      </value>
+    </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="4a86e8" />
       </value>
     </option>
     <option name="List/map to object conversion">
@@ -10238,6 +10258,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="bc3f3c" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -10592,7 +10618,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="bc9458" />
+        <option name="FOREGROUND" value="c26b5f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -10710,6 +10736,11 @@
         <option name="FOREGROUND" value="74a2d4" />
         <option name="BACKGROUND" value="2b2b2b" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="YAML_ANCHOR">
+      <value>
+        <option name="FOREGROUND" value="94b5c4" />
       </value>
     </option>
     <option name="YAML_COMMENT">
