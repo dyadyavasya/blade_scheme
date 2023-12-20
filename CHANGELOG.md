@@ -39,3 +39,7 @@ First release.
 12) Added LIVE_TEMPLATE_ATTRIBUTES, LOG_DEBUG_OUTPUT, LOG_VERBOSE_OUTPUT, MARKED_FOR_REMOVAL_ATTRIBUTES
 13) Changed foreground for TODO_DEFAULT_ATTRIBUTES
 14) Added foreground for YAML_ANCHOR
+
+## 1.0.8 | 2023.12.20
+
+Fixed system error for PHPStorm 2023.3.1

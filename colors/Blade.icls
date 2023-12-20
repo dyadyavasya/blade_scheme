@@ -1,29 +1,20 @@
 <scheme name="Blade" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-01-13T12:20:48</property>
+    <property name="created">2023-12-19T18:38:45</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-01-13T12:21:08</property>
-    <property name="originalScheme">_@user_Blade</property>
+    <property name="ideVersion">2023.3.1.0.0</property>
+    <property name="modified">2023-12-19T18:39:10</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="11" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <console-font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </console-font>
+    <option name="EDITOR_FONT_SIZE" value="11" />
+  </font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="d6822" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -499,6 +490,12 @@
         <option name="FOREGROUND" value="db4233" />
       </value>
     </option>
+    <option name="GRAMMAR_ERROR">
+      <value>
+        <option name="EFFECT_COLOR" value="aeae80" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="GString">
       <value>
         <option name="FOREGROUND" value="a5c25c" />
@@ -587,6 +584,12 @@
       <value>
         <option name="FOREGROUND" value="7a7a7a" />
         <option name="BACKGROUND" value="464646" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="3c3b3b" />
+        <option name="BACKGROUND" value="cccccc" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
@@ -10619,7 +10622,6 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c26b5f" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="TYPEDEF">
