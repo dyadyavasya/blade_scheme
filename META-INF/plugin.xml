@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.dmitryshamin.blade</id>
   <name>Blade Color Scheme</name>
-  <version>1.0.8</version>
+  <version>1.0.9</version>
   <vendor email="dmitry.shamin@gmail.com" url="https://github.com/dyadyavasya/blade_scheme">Dmitry Shamin</vendor>
 
   <description><![CDATA[
@@ -9,7 +9,7 @@
     ]]></description>
 
   <change-notes><![CDATA[
-      Fixed system error for PHPStorm 2023.3.1
+      Fixed some colors
     ]]>
   </change-notes>
 

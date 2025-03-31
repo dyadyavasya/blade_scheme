@@ -1,10 +1,14 @@
 <scheme name="Blade" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-12-19T18:38:45</property>
+    <property name="description">Blade is the dark color scheme for the PHPStorm and other JetBrains's IDE</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2023.3.1.0.0</property>
-    <property name="modified">2023-12-19T18:39:10</property>
+    <property name="ideVersion">2024.3.5.0.0</property>
+    <property name="modified">2025-03-31T11:45:12</property>
+    <property name="vendorMail">dmitry.shamin@gmail.com</property>
+    <property name="vendorName">Dmitry Shamin</property>
+    <property name="vendorUrl">http://github.com/dyadyavasya/blade_theme</property>
+    <property name="version">1.0.9</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
@@ -461,6 +465,11 @@
         <option name="BACKGROUND" value="474f5f" />
       </value>
     </option>
+    <option name="EVALUATED_EXPRESSION_EXECUTION_LINE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="606060" />
+      </value>
+    </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="2d6099" />
@@ -586,9 +595,15 @@
         <option name="BACKGROUND" value="464646" />
       </value>
     </option>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="bcdaf7" />
+      </value>
+    </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
-        <option name="FOREGROUND" value="3c3b3b" />
+        <option name="FOREGROUND" value="0" />
         <option name="BACKGROUND" value="cccccc" />
       </value>
     </option>

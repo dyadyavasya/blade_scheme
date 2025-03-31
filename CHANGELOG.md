@@ -43,3 +43,9 @@ First release.
 ## 1.0.8 | 2023.12.20
 
 Fixed system error for PHPStorm 2023.3.1
+
+## 1.0.9 | 2025.03.31
+
+1) Changed background for EVALUATED_EXPRESSION_EXECUTION_LINE_ATTRIBUTES
+2) Changed color for INLINE_PARAMETER_HINT_CURRENT
+3) Changed foreground for INLINE_PARAMETER_HINT_HIGHLIGHTED
